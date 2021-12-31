@@ -2,8 +2,9 @@ package org.test;
 
 public class ControlStatements {
 	
-	private void control() {
-		System.out.println("control");
+	private void company() {
+		System.out.println("company");
+
 	}
 
 public static void main(String[] args) {
