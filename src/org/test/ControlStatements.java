@@ -1,6 +1,10 @@
 package org.test;
 
 public class ControlStatements {
+	
+	private void control() {
+		System.out.println("control");
+	}
 
 public static void main(String[] args) {
 	
@@ -24,6 +28,9 @@ public static void main(String[] args) {
 		System.out.println("Employee not from Greens");
 		System.out.println("Hi Mani");
 	}
+	
+	
+	
 	
 	
 	
