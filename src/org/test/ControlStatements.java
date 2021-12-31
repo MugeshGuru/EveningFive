@@ -1,6 +1,11 @@
 package org.test;
 
 public class ControlStatements {
+	
+	private void company() {
+		System.out.println("company");
+
+	}
 
 public static void main(String[] args) {
 	
@@ -22,7 +27,11 @@ public static void main(String[] args) {
 	//Outer Else
 	else {
 		System.out.println("Employee not from Greens");
+		System.out.println("Hi Mani");
 	}
+	
+	
+	
 	
 	
 	
