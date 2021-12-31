@@ -22,6 +22,7 @@ public static void main(String[] args) {
 	//Outer Else
 	else {
 		System.out.println("Employee not from Greens");
+		System.out.println("Hi Mani");
 	}
 	
 	
