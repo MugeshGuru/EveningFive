@@ -7,6 +7,11 @@ public class ControlStatements {
 
 	}
 
+	private void tcs() {
+	System.out.println("TCS");
+
+	}
+	
 public static void main(String[] args) {
 	
 	int empId = 99;
